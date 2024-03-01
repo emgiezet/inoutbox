@@ -1,0 +1,15 @@
+{
+  "name": "emgiezet/inoutbox",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "emgiezet",
+      "email": "maxmalecki@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/messenger": "v7.0.0"
+  }
+}
